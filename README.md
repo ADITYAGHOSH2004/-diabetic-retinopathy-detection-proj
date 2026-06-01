@@ -6,6 +6,8 @@ ConvNeXt-Tiny and Swin-Base Transformer trained on 115,241 fundus images.
 
 ## Dataset
 Combined EyePACS + APTOS 2019 + Messidor (115,241 training images)
+## Models
+Google drive link:https://drive.google.com/drive/folders/1EtU6DjCCqmKYSovVV9241Jh_a9ll1lIZ?usp=drive_link
 
 ## Architecture
 - ConvNeXt-Tiny (28M params) — 5 folds at 384px
